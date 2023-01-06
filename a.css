@@ -62,7 +62,7 @@ header .container{
     font-size:14px
 }
 
-.who,.area2,.area3{
+.area1,.area2,.area3{
     display:flex;
     border:1px solid rgb(0, 0, 0);
     margin-bottom:50px;
