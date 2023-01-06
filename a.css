@@ -134,3 +134,24 @@ footer .social img{
     color:rgb(255, 255, 255);
     margin-left:20px;
 }
+
+@media (max-width:693px){
+    .container{
+        background-color: blue;
+        justify-content: center;
+        align-items: center;
+
+    }
+    header{
+        justify-content: center;
+
+    }
+    .area1{
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+
+    
+    
+}
